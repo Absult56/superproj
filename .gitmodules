@@ -1,3 +1,3 @@
-[submodule "superproj"]
-	path = superproj
-	url = git@github.com:Absult56/superproj.git
+[submodule "libs/subproj"]
+	path = libs/subproj
+	url = https://github.com/Absult56/subproj-.git
